@@ -18,7 +18,7 @@ Welcome to my personal portfolio! This project showcases my skills and projects.
 
 ## Live Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://syedamir5560.github.io/Aamirportfolio/).
 
 ## Installation
 
